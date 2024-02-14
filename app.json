@@ -1,5 +1,5 @@
 {
-  "name": "Atlas-MD",
+  "name": "Shizuka-MD",
   "description": "The future of WhatsApp bots now with plugin support.",
   "keywords": [
     "bot",
@@ -14,9 +14,9 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/FantoX/Atlas-MD#readme",
-  "repository": "https://github.com/FantoX/Atlas-MD.git",
-  "logo": "https://graph.org/file/02abf0fd8fc2a13cc67a1.jpg",
+  "website": "https://github.com/botskaking/Shizuka-#readme",
+  "repository": "https://github.com/botskaking/Shizuka-.git",
+  "logo": "https://iili.io/J1eiev2.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
@@ -27,7 +27,7 @@
       "description": "A random string for your bot session. Which works as an OTP to get qr code. You have to change session every time to get a new qr."
     },
     "MODS": {
-      "description": "Put any phone number without + , () and spaces \",\" Ex: 918101187835,929864781259 )",
+      "description": "Put any phone number without + , () and spaces \",\" Ex: 918279975767,918250895584",
       "required": false
     },
     "TENOR_API_KEY": {
@@ -35,7 +35,7 @@
       "required": false
     },
     "PACKNAME": {
-      "description": "Put a sticker packname here. Default is: Atlas Bot",
+      "description": "Put a sticker packname here. Default is: Shizuka Bot",
       "required": false
     },
     "MONGODB": {
