@@ -55,13 +55,7 @@ module.exports = {
         Atlas.sendMessage(m.from, { image: pic, caption: txt2 }, { quoted: m });
         break;
         
-        case "hi":
-      case "alive":
-        await doReact("🌝");
-        let txt2 = `              *${botName}* Is *Alive*, and I am always here to makes you Happy.`;
-        Atlas.sendMessage(m.from, { image: pic, caption: txt2 }, { quoted: m });
-        break;
-
+        
       case "help":
       case "h":
       case "menu":
