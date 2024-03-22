@@ -411,7 +411,7 @@ module.exports = {
           "Mai",
           "Yor",
           "Shinbou",
-          "Eiko",
+          "Shizuka",
         ];
         const botLogos = [
           "https://wallpapercave.com/wp/wp5924545.jpg",
